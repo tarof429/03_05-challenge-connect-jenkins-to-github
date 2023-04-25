@@ -2,6 +2,8 @@
 
 [![Build Status](http://100.21.199.198/buildStatus/icon?job=03_05-challenge-connect-jenkins-to-github)](http://100.21.199.198/job/03_05-challenge-connect-jenkins-to-github/)
 
+## Introduction 
+
 You're on a team developing an algorithm that calculates the value of pi.
 
 The code for the project is being stored in a GitHub repository. The team wants to test the latest changes to the algorithm with every push to the repo.
